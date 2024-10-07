@@ -26,3 +26,22 @@
     margin-left: 0;
   }
 }
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    margin: 145px -105px -29px 105px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    margin: 136px 118px 0 -118px;
+  }
+}

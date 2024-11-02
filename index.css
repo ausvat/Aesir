@@ -89,6 +89,11 @@
   .u-section-1 .u-sheet-1 {
     min-height: 590px;
   }
+  .u-logo-image {
+    height: 100vh; /* Set height to 100% of the viewport height */
+    width: 100%; /* Set width to 100% to fill the screen */
+    object-fit: contain; /* Cover the area without distortion */
+  }
 }
 
 @media (max-width: 575px) {
